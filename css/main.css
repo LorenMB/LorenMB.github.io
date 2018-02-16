@@ -2,9 +2,8 @@
     position:relative;
     margin:auto;
     display:block;
-    margin-top:8%;
-    width:450px;
-    height:550px;
+    width:45vw;
+    height:55vw;
     background:none;
 }
 
@@ -14,26 +13,26 @@
     top: 40%;
     left: 25%;
     width:50%;
-    height:44%;
+    height:50%;
     border-radius:50%;
     border: 5px solid black;
 }
 .foot-left{
     background: black;
     position: absolute;
-    top: 65%;
+    top: 74%;
     left: 6%;
-    width: 42%;
-    height: 39%;
+    width: 39%;
+    height: 31%;
     border-radius:50%;
 }
 .foot-right{
     background: black;
     position: absolute;
-    top: 65%;
+    top: 74%;
     right: 6%;
-    width: 42%;
-    height: 39%;
+    width: 39%;
+    height: 31%;
     border-radius:50%;
 }
 .middle{
@@ -76,9 +75,9 @@
     background: black;
     position: absolute;
     top: -50%;
-    right: -4%;
+    right: -1%;
     width: 103%;
-    height: 82%;
+    height: 65%;
     border-radius:50%;
     border: 5px solid black;
     z-index: 2;
